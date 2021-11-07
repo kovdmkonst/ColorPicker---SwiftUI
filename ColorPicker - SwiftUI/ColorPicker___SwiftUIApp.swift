@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct ___PACKAGENAME:identifier___App: App {
+struct ColorPicker___SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
